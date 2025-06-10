@@ -1,0 +1,23 @@
+{
+	"name": "stats-enrique-package",
+	"version": "1.0.0",
+	"main": "estadisticas.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EnriqueSarmiento/stats-enrique-package.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"description": "Funciones estadísticas y generación de gráficas con Node.js",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
+	"bugs": {
+		"url": "https://github.com/EnriqueSarmiento/stats-enrique-package/issues"
+	},
+	"homepage": "https://github.com/EnriqueSarmiento/stats-enrique-package#readme"
+}

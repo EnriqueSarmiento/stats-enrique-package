@@ -1,5 +1,5 @@
 {
-	"name": "stats-enrique-package",
+	"name": "@EnriqueSarmiento/stats-enrique-package",
 	"version": "1.0.0",
 	"main": "estadisticas.js",
 	"scripts": {

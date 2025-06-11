@@ -10,7 +10,7 @@
 		"url": "https://github.com/EnriqueSarmiento/stats-enrique-package.git"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Enrique Sarmiento",
 	"license": "MIT",
 	"description": "Funciones estadísticas y generación de gráficas con Node.js",
 	"publishConfig": {
